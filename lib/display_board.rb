@@ -6,7 +6,5 @@ def display_board(board)
   rows[4]"   |   |   "
 
   board = [" "," "," "," "," "," "," "," "," ",]
-  
-end
 
-  
+end
