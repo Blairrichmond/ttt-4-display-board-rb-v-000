@@ -7,4 +7,4 @@ def display_board(board)
 end
 
   board = [" "," "," "," "," "," "," "," "," ",]
-  rows[2] = "X"
+  board[4] = "X"
