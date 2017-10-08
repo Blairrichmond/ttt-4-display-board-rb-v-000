@@ -5,6 +5,6 @@ def display_board(board)
   puts"-----------"
   puts"   |   |   "
 end
-  rows=board
+
   board = [" "," "," "," "," "," "," "," "," ",]
   board[5] = "X"
