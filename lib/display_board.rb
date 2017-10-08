@@ -1,9 +1,12 @@
 def display_board(board)
-  board = ["O "," "," "," ","X "," "," "," "," "]
-
-  puts" #{board[0]}|   |   "
-  puts"-----------"
-  puts"   | #{board[4]}|   "
+  puts"   |   |   "
   puts"-----------"
   puts"   |   |   "
+  puts"-----------"
+  puts"   |   |   "
+
+  puts "#{board[0]}"
+
+  board = ["O "," "," "," ","X "," "," "," "," "]
+
 end
